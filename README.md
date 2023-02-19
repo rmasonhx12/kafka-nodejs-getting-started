@@ -7,7 +7,8 @@ Kafka - node js docker
 # To Terminate || stop
 1. docker compose down
 
-
-### Sample consumer - broker - producer using open source Apache Kafka as broker and consumer - producer as nodejs
-
-
+## After starting docker run following commands in another terminal
+### PRODUCE EVENTS
+* node producer.js getting-started.properties
+### CONSUME EVENTS
+* node consumer.js getting-started.properties 
