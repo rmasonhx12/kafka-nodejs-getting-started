@@ -1,6 +1,6 @@
 # GITIGNORE -- templates @ https://github.com/github/gitignore
 
-
+.DS_Store
 # Logs
 logs
 *.log
