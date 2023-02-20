@@ -12,3 +12,5 @@ Kafka - node js docker
 * node producer.js getting-started.properties
 ### CONSUME EVENTS
 * node consumer.js getting-started.properties 
+
+
