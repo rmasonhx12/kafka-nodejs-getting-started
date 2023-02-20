@@ -1,3 +1,6 @@
+# After cloning -- install node dep's
+npm install 
+
 # kafka-nodejs-getting-started
 Kafka - node js docker 
 
